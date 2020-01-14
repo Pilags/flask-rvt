@@ -8,7 +8,7 @@ def index():
 
 @app.route('/home')
 def home():
-  return "<h1><a href='/about'>My home</a></h1>"
+  return render_template('home.html')
 
 @app.route('/about')
 def about():
@@ -18,5 +18,7 @@ def about():
 def contact():
   return render_template('contact.html', phone = 24242835)
 
-app.run(host = '0.0.0.0', port = 8020)
+if __name__ == '__main__':
+  app.run(host = '0.0.0.0', port = 5020, threaded = True, debug = True)
+
 

@@ -1,4 +1,4 @@
-# Skolas projekts FLASK
-### Autors: TP D2-3
+# Skolas projekts falsk
+### Autors: MD
 
-Mans pirmais flask projekts.
+Mans superīgais projekts.

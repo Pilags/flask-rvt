@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Skolas projekts falsk
-### Autors: MD
-
-Mans superīgais projekts.
-=======
 # Skolas projekts FLASK
 ### Autors: TP D2-3
 
